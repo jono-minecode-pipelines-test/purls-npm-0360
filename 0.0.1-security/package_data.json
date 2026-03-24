@@ -1,0 +1,34 @@
+{
+    "name": "000webhost-database",
+    "version": "0.0.1-security",
+    "description": "security holding package",
+    "repository": "npm/security-holder",
+    "_id": "000webhost-database@0.0.1-security",
+    "_integrity": "sha512-9XfLtLyY5IkczLj+72mHgevbPlDMJNIfrF8h74qwBdeg1TpiUgNcbSirtOKKYEE/NtZBTwv4Mg6dP/zeUtuR5Q==",
+    "_resolved": "/tmp/tmp-15-q4Ltf0jAudm3",
+    "_from": "file:/tmp/tmp-15-q4Ltf0jAudm3",
+    "dist": {
+        "tarball": "https://registry.npmjs.org/000webhost-database/-/000webhost-database-0.0.1-security.tgz",
+        "integrity": "sha512-9XfLtLyY5IkczLj+72mHgevbPlDMJNIfrF8h74qwBdeg1TpiUgNcbSirtOKKYEE/NtZBTwv4Mg6dP/zeUtuR5Q==",
+        "shasum": "771249904da1c0cef244e8a9d484187b4b5931ba",
+        "fileCount": 2,
+        "unpackedSize": 444,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEYCIQC9TxBKnXk5S5ZejbmTDhPirjOpx0CiN/Ao6M12YQJVogIhAORjLqyamQTL9JJenZr1Cdh+lOiiXRPlKwCNpHodEiz7"
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "npm",
+        "email": "npm@npmjs.com"
+    },
+    "directories": {},
+    "maintainers": [],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages-npm-production",
+        "tmp": "tmp/000webhost-database_0.0.1-security_1736813576146_0.32106929730703215"
+    },
+    "_hasShrinkwrap": false
+}

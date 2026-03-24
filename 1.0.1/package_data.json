@@ -1,0 +1,56 @@
+{
+    "name": "001_numbersguessingame",
+    "version": "1.0.1",
+    "description": "Here is my Fisrt Number Guesssing Game",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "001_numbersguessingame": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.30"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.16"
+    },
+    "_id": "001_numbersguessingame@1.0.1",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-61dm9X34vRTPzTBBtec9xQL28RTfjwPFv+D+h9FFjNONxFYQy0d1UcRt2YX7fidNA+/pizymhhCKMif/DZuySw==",
+        "shasum": "4bd6fcd0ddff1475502775ed93400e4903fdcea4",
+        "tarball": "https://registry.npmjs.org/001_numbersguessingame/-/001_numbersguessingame-1.0.1.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15356,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEUCIQDYAsCRHwP9Kyw0qO33AaaYuDpDyrWuzVgwQIPlo7f2LgIgUyc8l9EAeLbYvvFAeUWHVnCYKMLG7eGSPaNXjWhW+L8="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ahmedraza04",
+        "email": "hafizahmedraza12345@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ahmedraza04",
+            "email": "hafizahmedraza12345@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/001_numbersguessingame_1.0.1_1711075745948_0.6884227619047438"
+    },
+    "_hasShrinkwrap": false
+}

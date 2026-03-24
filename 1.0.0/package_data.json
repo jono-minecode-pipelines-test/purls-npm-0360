@@ -1,0 +1,55 @@
+{
+    "name": "001_numbersguessingame",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "bin": {
+        "001_numbersguessingame": "main.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/inquirer": "^9.0.7",
+        "@types/node": "^20.11.30"
+    },
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.16"
+    },
+    "_id": "001_numbersguessingame@1.0.0",
+    "_nodeVersion": "20.11.0",
+    "_npmVersion": "10.2.4",
+    "dist": {
+        "integrity": "sha512-2u4gLJSDfDE7hRydpMjsTN8JW82MN0JSTdDXIXfrEzOpoc7OogR+bqjn7tzXObnPuz8mpjaEyVPF+wT+J0B3tQ==",
+        "shasum": "4abc77a44e2b97f3e5d87370ef5d4fb9f9e6e093",
+        "tarball": "https://registry.npmjs.org/001_numbersguessingame/-/001_numbersguessingame-1.0.0.tgz",
+        "fileCount": 4,
+        "unpackedSize": 15291,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIEU0YGKLYcvxFWL8VMHzeKWjP5LRJNiefZUwl1YQ8xM0AiADpSB4YginLCNun1KWHHQNcidtOxiHjlaAW/TFJ1jYgA=="
+            }
+        ]
+    },
+    "_npmUser": {
+        "name": "ahmedraza04",
+        "email": "hafizahmedraza12345@gmail.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "ahmedraza04",
+            "email": "hafizahmedraza12345@gmail.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/001_numbersguessingame_1.0.0_1711075350686_0.7486116744386795"
+    },
+    "_hasShrinkwrap": false
+}
